@@ -14,4 +14,3 @@ Play the game here: https://www.roblox.com/games/6516141723/DOORS
 Link to the mod that this mod is addon for: https://www.curseforge.com/minecraft/mc-mods/ransom-a-90
 
 (This mod is only for 1.21.1 neoforge right now.)
-(Check the gallerry to see how it looks :D)
